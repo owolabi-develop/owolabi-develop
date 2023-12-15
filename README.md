@@ -7,6 +7,8 @@ I am working as a full stack developer and  Data Engineer. I develop many data e
 
 ### Tech stack
 ![Uploading airflow.svg…]()
+![level_up_track](https://github.com/owolabi-develop/owolabi-develop/assets/94055941/a1968d44-bfab-4faf-a64b-89f785077fe1)
+
 
 
 <!--
