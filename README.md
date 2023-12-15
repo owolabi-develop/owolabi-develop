@@ -17,6 +17,8 @@ I am working as a full stack developer and  Data Engineer. I develop many data e
 ![power-bi](https://github.com/owolabi-develop/owolabi-develop/assets/94055941/374c72ef-11a6-4a09-9de1-78854a39a079)
 ![aws-rds](https://github.com/owolabi-develop/owolabi-develop/assets/94055941/aa2d5f99-bee6-47e5-9a1d-d8e63d8a7fad)
  postgresql-plain-wordmark.svg…]()
+ ![68747470733a2f2f69676e6f732e626c6f672f77702d636f6e74656e742f75706c6f6164732f323032322f30362f617061636865737061726b6c6f676f2d65313635353437353831383839342e706e67](https://github.com/owolabi-develop/owolabi-develop/assets/94055941/260848d5-f462-49e9-a44b-04d1cfca68c2)
+
 
 
 
