@@ -1,9 +1,16 @@
 ### Hi 👋 ! I'm Owolabi
-### Full stack developer Data Engineer and AI
+### Full-Stack Python Developer | AI Expert Crafting Scalable Solutions
 ### About Me :
 
-I am working as a full stack developer and  Data Engineer. I develop many data engineering projects with the below tools and frameworks. I start working on the projects and jobs with a can-do approach and try to find the best practices while handling the tasks. I believe that theoretical side of the data is quite important. That's why I learn the principles of distributed computing, big data practices, best approaches in streaming data, scheduling pipelines, best practices of cloud environments and many other topics. While doing those, I also develop myself in coding especially at Python and SQL. I create many complicated Python scripts as well as many SQL queries. You can find lots of data full stack and engineering projects here, welcome to my GitHub :
-)
+I'm a Full-Stack Developer, Data Engineer, and Generative AI Expert with a passion for building scalable, AI-driven solutions. I specialize in developing data engineering pipelines and AI applications using advanced frameworks like Langchain and LangGraph, as well as leveraging powerful LLMs such as OpenAI and Cohere to create innovative solutions.
+
+As a Langchain & LangGraph developer, I design and deploy state-of-the-art AI applications, conversational agents, and knowledge extraction tools. My expertise extends to working with vector databases like Pinecone, Weaviate, ChromaDB, and PGVector to handle high-dimensional data for tasks such as similarity search, recommendation systems, and AI-driven data retrieval.
+
+Incorporating LLMs into my projects allows me to build highly intelligent systems capable of understanding, generating, and interacting with human language. Whether it's building complex chatbots, automating content generation, or performing sophisticated data analysis, I leverage the power of models like OpenAI and Cohere to push the boundaries of what's possible with AI.
+
+I also prioritize the theoretical aspects of data, continuously expanding my knowledge in distributed computing, big data practices, and cloud environments. With my deep expertise in Python and SQL, I create efficient scripts and queries to solve real-world data engineering challenges.
+
+Feel free to explore my collection of AI-powered, data-driven full-stack projects on my GitHub. Let’s connect and collaborate on the future of AI, vector databases, and data engineering!
 
 
 
