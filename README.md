@@ -1,5 +1,5 @@
 ### Hi 👋 ! I'm Owolabi
-### Python | AI Engineer
+### Python | Applied AI Engineer
 ### About Me :
 
 I’m a Python Backend AI Engineer with years of experience building scalable, production-ready APIs and backend systems. I specialize in backend development with FastAPI and Django, designing clean, maintainable services that power real-world applications.
